@@ -1,2 +1,2 @@
-# dio-desafios
-diversos desfio da Dio.me
+# Repositorio de projetos e desafios da Dio.me
+diversos desafio da Dio.me
