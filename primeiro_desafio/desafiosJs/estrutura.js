@@ -48,6 +48,32 @@
 // console.log(numerosPares);
 
 
-const listaDeValores = [1, 2, 3, 4, 5];
-    const valor = listaDeValores[2];
-    console.log(valor);
+// const listaDeValores = [1, 2, 3, 4, 5];
+//     const valor = listaDeValores[2];
+//     console.log(valor);
+
+//#############################
+
+// const person = {
+
+//     firstName: 'edson',
+//     lastName: 'victor',
+
+//     fullName: function () {
+//         return `${this.firstName} ${this.lastName}`;
+
+//     },
+
+//     show: function () {
+//         window.setTimeout() {
+//             window.setTimeout(() => {
+//                 console.log(this.fullName());
+//             }, 100);
+
+
+//         },
+//     };
+
+//     person.show();
+
+
