@@ -21,6 +21,7 @@ function obterEscolha(mensagem) {
     return prompt(mensagem);
   }
   
+  
   // Função para exibir uma mensagem na tela
   function exibirMensagem(mensagem) {
     console.log(mensagem);
