@@ -104,3 +104,5 @@ function obterEscolha(mensagem) {
   // Iniciar o jogo
   iniciarJogo();
   
+
+  // fim
